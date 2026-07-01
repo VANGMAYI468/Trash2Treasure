@@ -99,23 +99,23 @@ PORT=5000
 ### 📝 Sign Up
 ![Sign Up](screenshots/sign-up.png)
 
-### ♻️ Submit Waste
-![Submit Waste](screenshots/submit-waste.png)
-
 ### 📊 Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### 🎁 Rewards
-![Rewards](screenshots/rewards.png)
+### ♻️ Submit Waste
+![Submit Waste](screenshots/submit-waste.png)
 
 ### 🚛 My Pickups
 ![My Pickups](screenshots/my-pickups.png)
 
-### ♻️ Recycler Portal
-![Recycler Portal](screenshots/recycler-portal.png)
+### 🎁 Rewards
+![Rewards](screenshots/rewards.png)
 
 ### 📍 Find Centers
 ![Find Centers](screenshots/find-centers.png)
+
+### ♻️ Recycler Portal
+![Recycler Portal](screenshots/recycler-portal.png)
 
 ## 🌱 Future Enhancements
 
@@ -130,7 +130,7 @@ PORT=5000
 ## 👩‍💻 Author
 
 **Vangmayi Karri**
-Computer Science Engineering and Data Science
+Computer Science Engineering and Data Science,
 Pragati Engineering College
 
 ---
