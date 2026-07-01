@@ -130,7 +130,7 @@ PORT=5000
 ## 👩‍💻 Author
 
 **Vangmayi Karri**
-B.Tech – Computer Science engineering & Data science
+Computer Science Engineering and Data Science
 Pragati Engineering College
 
 ---
